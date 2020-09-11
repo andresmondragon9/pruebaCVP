@@ -14,6 +14,11 @@ al arranque de spring boot crea las tablas , Persona , TipoDocumento , Pais
 
 ejecuta un script para las tablas Pais , TipoDocumento
 
+para ingresar a la bade da datos por el siguiente link
+
+http://localhost:8080/h2-console
+
+
 
 
 
